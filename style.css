@@ -1,0 +1,27 @@
+body{
+    padding: 50px 100px;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    background-color: blueviolet;
+    border-radius: 30px;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(127, 129, 255);
+    padding: 25px;
+    border-radius: 30px;
+}
+#input-div{
+    padding:25px;
+}
+.inp{
+    text-align: center;
+}
+label{
+   font-style: italic;
+   font-size: 20px;
+   font-weight: 900;
+}
